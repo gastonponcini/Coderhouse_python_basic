@@ -35,3 +35,51 @@ The company is committed to fostering diversity, equity, and inclusion, with a f
 ## Data Privacy
 
 - This is a complete random dataset and therefore does not represent any company's real data.
+
+## Summary of implemented code
+
+Summary of the provided code:
+
+- Importing Dataset:
+Imported the dataset from a CSV file using pandas.
+Displayed the first few rows of the DataFrame for data verification.
+
+- Exploring Dataset:
+Counted the number of missing values in each column and displayed the result.
+Checked the data types of each column and displayed the result.
+
+- Data Cleaning - Removing Inactive Employees:
+Counted the number of employees by status ('Active' and 'Inactive').
+Removed rows where the 'Status' column is 'Inactive'.
+Displayed the updated counts of employees by status.
+
+- ETL Processes - Standardizing Data: Languages:
+Counted employees by language.
+Replaced variations of Spanish and French with a single value ('Spanish' and 'French').
+Displayed the updated counts of employees by language.
+
+- ETL Processes - Standardizing Data: Global Function:
+Counted employees by global function.
+Converted all entries within the 'Global Function' column to lowercase.
+Standardized specific entries like SALES and PROCUREMENT.
+Displayed the updated counts of employees by global function.
+
+- ETL Processes - Standardizing Data: Gender:
+Counted employees by gender.
+Converted all entries within the 'Gender' column to lowercase.
+Standardized specific entries like MALE and FEMALE.
+Displayed the updated counts of employees by gender.
+
+- ETL Processes - Standardizing Data: Band Equivalence:
+Counted employees by band equivalence.
+Converted all entries within the 'Band Equivalence' column to lowercase.
+Standardized specific entries like VI.
+Displayed the updated counts of employees by band equivalence.
+
+- ETL Processes - Standardizing Data: Manager Flag:
+Counted employees by Manager Flag.
+No changes were needed for this column.
+
+- ETL Processes - Standardizing Data: Zone:
+Counted employees by Zone.
+No changes were needed for this column.
