@@ -53,6 +53,9 @@ Counted the number of employees by status ('Active' and 'Inactive').
 Removed rows where the 'Status' column is 'Inactive'.
 Displayed the updated counts of employees by status.
 
+- Data Cleaning - Removing columns that are not useful for the project:
+Removed columns Employee Subgroup, Employee Band, City, Inbev Entity Description, Special Group and Inelegibility.
+
 - ETL Processes - Standardizing Data: Languages:
 Counted employees by language.
 Replaced variations of Spanish and French with a single value ('Spanish' and 'French').
