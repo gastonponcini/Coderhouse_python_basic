@@ -110,14 +110,10 @@ Visualize the distribution in a doughnut chart.
 - Gap Analysis:
 1 Global Managerial Representation
 Set a target percentage for female representation in managerial positions.
-Calculate the current percentage and identify the gap in percentage and quantity.
-
-2 Function Representation
+Calculate the current percentage and identify the gap in percentage and quantity. / 2 Function Representation
 Set a target percentage for female representation in each global function.
 Identify global functions with female representation below the target.
-Calculate the gap percentage and quantity.
-
-3 Band 0-III Representation
+Calculate the gap percentage and quantity. / 3 Band 0-III Representation
 Set a target percentage for female representation in bands 0-III.
 Calculate the current percentage and the gap percentage.
 
