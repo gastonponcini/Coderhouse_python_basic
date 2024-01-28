@@ -6,7 +6,7 @@ This repository contains an HRIS dataset with information on gender representati
 
 ## Business Context
 
-The company is committed to fostering diversity, equity, and inclusion, with a focus on advancing women's access to leadership positions. The global goal is to have 40% of women in management positions, with a minimum regional requirement of 20%. Additionally, there's an objective to ensure at least 20% of women in management positions in all functional areas and a target of 33% women leaders in bands 0-III.
+The company is committed to fostering diversity, equity, and inclusion, with a focus on advancing women's access to leadership positions. The global goal is to have 40% of women in management positions, with a minimum regional requirement of 20%. Additionally, there's an objective to ensure at least 30% of women in all functional areas and a target of 33% women leaders in bands 0-III.
 
 ## Metrics
 
