@@ -86,3 +86,39 @@ No changes were needed for this column.
 - ETL Processes - Standardizing Data: Zone:
 Counted employees by Zone.
 No changes were needed for this column.
+
+- Identify the current state: Global Managerial Representation
+Analyze the distribution of employees by managerial status and gender.
+Calculate the percentage distribution of employees by managerial status.
+Visualize the percentage distribution in a stacked bar chart.
+
+- Identify the current state: Zone Representation
+Analyze the distribution of employees by zone and gender.
+Calculate the percentage distribution of employees by zone.
+Visualize the percentage distribution in a stacked bar chart.
+
+- Identify the current state: Function Representation
+Analyze the distribution of employees by global function and gender.
+Calculate the percentage distribution of employees by global function.
+Visualize the percentage distribution in a bar chart.
+
+- Identify the current state: Band 0-III Representation
+Analyze the distribution of employees by band equivalence and gender.
+Calculate the total number of female and male employees in bands 0-III.
+Visualize the distribution in a doughnut chart.
+
+- Gap Analysis:
+1 Global Managerial Representation
+Set a target percentage for female representation in managerial positions.
+Calculate the current percentage and identify the gap in percentage and quantity.
+
+2 Function Representation
+Set a target percentage for female representation in each global function.
+Identify global functions with female representation below the target.
+Calculate the gap percentage and quantity.
+
+3 Band 0-III Representation
+Set a target percentage for female representation in bands 0-III.
+Calculate the current percentage and the gap percentage.
+
+- Visualizations: Visualize the gap analysis results using bar charts and pie charts.
