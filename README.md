@@ -116,5 +116,42 @@ Identify global functions with female representation below the target.
 Calculate the gap percentage and quantity. / 3 Band 0-III Representation
 Set a target percentage for female representation in bands 0-III.
 Calculate the current percentage and the gap percentage.
+Visualize the gap analysis results using bar charts and pie charts.
 
-- Visualizations: Visualize the gap analysis results using bar charts and pie charts.
+- Exploratory Data Analysis and Actions for Gender Representation
+
+- Age Group Analysis:
+
+Explored gender distribution by age group.
+Calculated the percentage distribution of employees by age group.
+Plotted a bar chart of female representation by age group.
+Set a target female representation and calculated the required number of females for specific age groups.
+Updated the gender distribution by age group to meet the target.
+Calculated the total number of females, males, and the overall percentage of females.
+
+- Country Analysis:
+
+Explored gender distribution by country.
+Filtered countries with more than 500 employees.
+Calculated the percentage distribution of employees by country.
+Plotted a bar chart of female representation by country.
+Identified the bottom 7 countries with the lowest female representation.
+Set a target female representation for specific countries and calculated the required number of females.
+Updated the gender distribution for the bottom 7 countries to meet the target.
+Calculated the total number of females, males, and the overall percentage of females.
+
+- Time in Position Analysis:
+
+Explored gender distribution by time in position.
+Excluded rows where 'Band Equivalence' is 'iv', 'v', 'vi', 'vii'.
+Calculated the percentage distribution of employees by time in position.
+Set a target for promoting women with +3 years in the company.
+Calculated the number of women promoted based on the target.
+Updated the number of females in Band IV and calculated the new female representation in Bands 0-III.
+
+- Impact Measurement:
+
+Measured the improvement in overall female representation for different approaches:
+Bottom 7 countries with +500 employees approach.
+Bottom 2 age groups approach.
+50% of Band IV promoted into Band III approach.
